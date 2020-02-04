@@ -1,2 +1,2 @@
 # CSE142
-CSE142 Homework Assignments
+CSE142 Projects
